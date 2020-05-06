@@ -6,7 +6,8 @@ howto
 1. cd project-name 
 2. pip install -r requirements.txt
 3. npm start 或者 npm run build
-4. 后台服务参考：https://github.com/wanwenqq/flask_ori,目前做了登录接口可以测试
+4. 后台服务参考：https://github.com/wanwenqq/flask_ori   目前做了登录接口可以测试
+
 -------
 解决的问题:
 1. 解决image本地图片显示问题,在url-loader中增加  options {esModule: false}
